@@ -1,0 +1,92 @@
+[
+    {
+        "Rank (UB)": 1,
+        "Model": "Claude 3.5 Sonnet (20241022)",
+        "Arena Score": 1253.0,
+        "95% CI": "+4.98 / -5.87",
+        "Votes": 13265,
+        "Organization": "Anthropic",
+        "License": "Proprietary"
+    },
+    {
+        "Rank (UB)": 2,
+        "Model": "DeepSeek-R1",
+        "Arena Score": 1215.56,
+        "95% CI": "+22.47 / -22.03",
+        "Votes": 835,
+        "Organization": "DeepSeek",
+        "License": "MIT"
+    },
+    {
+        "Rank (UB)": 3,
+        "Model": "Claude 3.5 Haiku (20241022)",
+        "Arena Score": 1138.44,
+        "95% CI": "+6.68 / -6.14",
+        "Votes": 7670,
+        "Organization": "Anthropic",
+        "License": "Proprietary"
+    },
+    {
+        "Rank (UB)": 4,
+        "Model": "o1-mini (20240912)",
+        "Arena Score": 1064.93,
+        "95% CI": "+4.89 / -7.25",
+        "Votes": 10551,
+        "Organization": "OpenAI",
+        "License": "Proprietary"
+    },
+    {
+        "Rank (UB)": 4,
+        "Model": "o1 (20241217)",
+        "Arena Score": 1056.14,
+        "95% CI": "+6.19 / -7.99",
+        "Votes": 6132,
+        "Organization": "OpenAI",
+        "License": "Proprietary"
+    },
+    {
+        "Rank (UB)": 4,
+        "Model": "Gemini-2.0-Flash-Thinking-01-21",
+        "Arena Score": 1050.59,
+        "95% CI": "+20.64 / -20.26",
+        "Votes": 843,
+        "Organization": "Google",
+        "License": "Proprietary"
+    },
+    {
+        "Rank (UB)": 6,
+        "Model": "Gemini-2.0-Flash-Thinking-1219",
+        "Arena Score": 1028.9,
+        "95% CI": "+7.35 / -8.18",
+        "Votes": 8010,
+        "Organization": "Google",
+        "License": "Proprietary"
+    },
+    {
+        "Rank (UB)": 6,
+        "Model": "Gemini-Exp-1206",
+        "Arena Score": 1025.92,
+        "95% CI": "+5.03 / -6.01",
+        "Votes": 12096,
+        "Organization": "Google",
+        "License": "Proprietary"
+    },
+    {
+        "Rank (UB)": 9,
+        "Model": "Gemini-2.0-Flash-Exp",
+        "Arena Score": 981.66,
+        "95% CI": "+5.22 / -5.67",
+        "Votes": 11994,
+        "Organization": "Google",
+        "License": "Proprietary"
+    },
+    {
+        "Rank (UB)": 10,
+        "Model": "DeepSeek-V3",
+        "Arena Score": 966.91,
+        "95% CI": "+8.19 / -7.84",
+        "Votes": 6451,
+        "Organization": "DeepSeek",
+        "License": "DeepSeek"
+    }
+]
